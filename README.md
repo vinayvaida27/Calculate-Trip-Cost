@@ -57,10 +57,4 @@ mvn clean test
 
 For more information, please contact Vinay Vaida at [vinayvaida@gmail.com](mailto:vinayvaida@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vinayvaida/).
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-```bash
-
-```
